@@ -1,0 +1,17 @@
+.storeInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 18px;
+  background-color: white;
+}
+
+.storeInfo > h3 {
+  margin: 0;
+}
+
+.description {
+  margin: 0;
+  font-size: 14px;
+  color: gray;
+}
